@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.contenedor-nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2rem;
+  background-color: cadetblue;
+}    
+
+.logo-nav-drift{
+  width: 5rem;
+}
+
+
+.brand-nav{
+  font-weight: 400;
+}
+
+.cartWidget-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.carrito-img{
+  width: 5rem;
+}
+
+.titulo-principal{
+  text-align: center;
+}
